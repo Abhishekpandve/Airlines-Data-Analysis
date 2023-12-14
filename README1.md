@@ -11,8 +11,8 @@ The goal of this data analysis project using sql would be to identify opportunit
 - **SQL Analysis:** The project includes SQL queries to extract and process data from a relational database. We'll explore SQL-based data manipulation, aggregation, and querying techniques.
 
 - **Python Programming:** Python is used for data analysis  and visualization. We'll utilize well known libraries like Pandas, Matplotlib, and Seaborn to acquire experiences and make enlightening visualization.
-- 
-- **Key Metrics:**The task bases on key performance markers, for example, total revenue, average revenue per ticket, and average occupancy per aircraft.
+ 
+ - **Key Metrics:** The task bases on key performance markers, for example, total revenue, average revenue per ticket, and average occupancy per aircraft.
 
 - **Profitability Optimization:**  The analysis will assist with distinguishing regions for development, suggest estimating strategies, and course improvements to upgrade airline benefit.
 
