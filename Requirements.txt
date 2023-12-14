@@ -1,0 +1,10 @@
+## Requirements
+To execute the code in this project, you'll need the following Python packages. Install them using `pip` and the provided version numbers:
+
+```plaintext
+- Python 3.x
+- Jupyter Notebook (optional)
+- Pandas
+- Matplotlib
+- Seaborn
+- Your SQL database system (e.g., MySQL, PostgreSQL)
